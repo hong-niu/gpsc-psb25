@@ -1,6 +1,6 @@
-# [gpsc] - Gaussian Process Spatial Clustering
+# [gpsc] - Spatial Clustering for Carolina Breast Cancer Study
 
-Repo for "Gaussian Process Spatial Clustering." Here we also host the supplement to the paper as a PDF. 
+Repo for "Spatial Clustering for Carolina Breast Cancer Study." Here we also host the supplement to the paper as a PDF. 
 
 # Installation 
 Main dependencies - recommended to install with conda 
